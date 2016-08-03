@@ -1,0 +1,35 @@
+.post {
+  width: 60%;
+  margin: 10px auto;
+  padding: 12px;
+  border: solid black 1px;
+  background-color: rgba(254, 254, 254, .5);
+}
+
+.about {
+  width: 40%;
+  margin: auto;
+  font-style: italic;
+  background: #e6ffff;
+  padding: 20px;
+}
+
+.about img {
+  float: left;
+  margin-right: 5px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+}
+
+body {
+  background-image: url("../bookcover.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
